@@ -4,7 +4,7 @@ Type `fw` to open a new Firefox window on the current desktop.
 
 <img src="./preview.png" alt="preview">
 
-<a href="./firefox-window.alfredworkflow">Download</a>
+<a href="./firefox-window.alfredworkflow?raw=true">Download</a>
 
 ---
 
