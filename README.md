@@ -1,4 +1,4 @@
-# Alfred new Firefox window workflow
+# New Firefox window workflow for Alfred.app
 
 Type `fw` to open a new Firefox window on the current desktop.
 
