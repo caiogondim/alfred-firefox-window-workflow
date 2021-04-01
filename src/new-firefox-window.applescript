@@ -7,6 +7,7 @@ tell application "System Events"
 end tell
 
 tell application "Firefox"
+	open location "https://www.google.com/search?&q=" & q
     activate
 end tell
 
